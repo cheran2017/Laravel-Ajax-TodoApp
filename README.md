@@ -29,7 +29,7 @@ php artisan serve
 
 <p align="center">
    DEMO IMAGE
-  <img src="https://github.com/cheran2017/Laravel-Ajax-TodoApp/sampleAjax.png>
+  <img src="sampleAjax.png">
 </p>
 
 
